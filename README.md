@@ -1,4 +1,4 @@
-# 🌡️ Temperature Converter CLI
+# 🌡️ TempCon
 
 This is a simple Python command-line tool to convert between different temperature units: Celsius, Fahrenheit, and Kelvin. It also logs your conversion history in a text file and gives options to view or delete it.
 
@@ -44,8 +44,8 @@ Contains the core logic for:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/temperature-converter-cli.git
-   cd temperature-converter-cli
+   git clone https://github.com/khan6400/TempCon.git
+   cd TempCon
    ```
 
 2. Run the program:
